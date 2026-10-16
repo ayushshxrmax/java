@@ -4,7 +4,7 @@ public class Done{
     }
     static void pattern1(){
         /*
-* * * * * *
+* * * * * *  
 * * * * * *
 * * * * * *
 * * * * * *   n
